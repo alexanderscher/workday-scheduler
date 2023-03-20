@@ -38,7 +38,7 @@ function updateTime() {
   }, 1000);
 }
 
-// this function updates the inputs from local storage.
+// this function updates the inputs from local storage. were setting the index at 9 becasue the ids go from 9 to 15 (3pm).
 
 function updatedInputs() {
   var index = 9;
